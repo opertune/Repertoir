@@ -1,0 +1,9 @@
+C:\projet\Si4\TP4\TP4\bin\Debug\TP4.exe.config
+C:\projet\Si4\TP4\TP4\bin\Debug\TP4.exe
+C:\projet\Si4\TP4\TP4\bin\Debug\TP4.pdb
+C:\projet\Si4\TP4\TP4\obj\Debug\TP4.csprojAssemblyReference.cache
+C:\projet\Si4\TP4\TP4\obj\Debug\TP4.Form1.resources
+C:\projet\Si4\TP4\TP4\obj\Debug\TP4.Properties.Resources.resources
+C:\projet\Si4\TP4\TP4\obj\Debug\TP4.csproj.GenerateResource.cache
+C:\projet\Si4\TP4\TP4\obj\Debug\TP4.exe
+C:\projet\Si4\TP4\TP4\obj\Debug\TP4.pdb
